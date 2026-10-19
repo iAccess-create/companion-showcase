@@ -68,4 +68,4 @@ The prototype is checked at several levels:
 
 ## Repository scope
 
-This repository is intentionally separate from Companion’s private implementation and from unrelated business-case work. It contains only this case study and the three reviewed screenshots above.
+This repository is intentionally separate from Companion’s private implementation. It contains only this case study and the three reviewed screenshots above.
