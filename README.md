@@ -41,7 +41,7 @@ Each flow moves through staged updates. The screen distinguishes the source aler
 - Larger text, higher contrast, reduced motion, and avoid-flashing preferences.
 - Read-aloud controls for important information.
 - Recorded ASL presentation for the original alerts in all three demo scenarios.
-- English, Spanish, Simplified Chinese, Vietnamese, and Arabic interface content, plus device-language selection.
+- Demo interface content is available in English, Spanish, Simplified Chinese, Vietnamese, and Arabic, with device-language selection. Non-English emergency wording is provisional and still requires review by qualified language professionals before production use.
 - Guidance that can account for step-free routes, mobility equipment, transportation, medication and equipment, smoke or oxygen concerns, fatigue or pain, service animals, and responsibility for another person.
 - Trusted-contact Add, Edit, and Delete flows with a required relationship; Companion never calls or sends automatically.
 - Semantic controls, visible keyboard focus, dialog focus management, and right-to-left layout support.
@@ -52,7 +52,7 @@ The prototype is checked at several levels:
 
 - **Content parity:** generated web content is compared with the native scenario fixtures for all three scenarios, their stages, source alerts, contact rules, and ASL mappings.
 - **Settings parity:** automated tests check native section order, fresh-profile defaults, preference-driven guidance, and the exported Companion mark.
-- **Localization:** automated checks verify every visible key across the five supported languages.
+- **Localization:** automated checks verify every visible key across the five demo interface languages; these checks confirm coverage, not linguistic approval.
 - **Flow testing:** browser tests cover a complete emergency flow, read-aloud, map, contact rules, and ASL behavior.
 - **Responsive review:** the welcome, personalization, picker, and scenario screens are reviewed at iPhone and iPad sizes.
 - **Public-content review:** the screenshots in this repository use fictional scenario data and contain no real names, phone numbers, customer information, or saved contacts.
